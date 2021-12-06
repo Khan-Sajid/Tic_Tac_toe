@@ -1,0 +1,15 @@
+.Box{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 3em;
+    font-family: cursive;
+    margin: 2px;
+    border-radius: 5px;
+    height: 100px;
+    width: 100px;
+}
+
+.Box:hover{
+    cursor: pointer;
+}
